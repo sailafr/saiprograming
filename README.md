@@ -1,7 +1,5 @@
-- 👋 Hi, I’m SAILA
-- 🌱 I’m currently learning about programing
-- 😄 Hope You like my project soon
-- ⚡ Fun fact: daisy
+👋 Hi, I’m SAILA
+😄 daisy
 
 <!---
 saiprograming/saiprograming is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
